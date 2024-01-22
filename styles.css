@@ -29,7 +29,7 @@ header {
 }
 
 .logo img {
-    width: 80px; /* تحديد حجم الشعار (لوجو) */
+    width: 120px; /* تحديد حجم الشعار (لوجو) */
     height: auto;
     margin-right: 10px;
 }
